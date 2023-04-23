@@ -1,2 +1,2 @@
-# SFSchool 
+# Python 
 I'm just learning
